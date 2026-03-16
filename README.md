@@ -12,10 +12,6 @@ Comparar esse computador histórico com tecnologias atuais permite entender como
 - Memória
 - Periféricos
 
-
-![Apple I placa](img/apple1_board.jpg)
-
-
 ## Processamento
 
 No **Apple I**, o processamento era realizado pelo microprocessador **MOS Technology 6502**, que operava aproximadamente a **1 MHz**.
