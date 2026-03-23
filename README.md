@@ -31,6 +31,7 @@ Isso permite realizar tarefas complexas como:
 - edição de vídeo
 
 - # Apple I (1976) vs iPhone 16 Pro (2024)
+![Image](https://github.com/user-attachments/assets/b95273c5-70ff-433d-abf9-00617cdbc394)
 
 ## Interface do Apple I
 
