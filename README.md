@@ -33,6 +33,7 @@ Isso permite realizar tarefas complexas como:
 - # Apple I (1976) vs iPhone 16 Pro (2024)
 ![Image](https://github.com/user-attachments/assets/b95273c5-70ff-433d-abf9-00617cdbc394)
 
+![Image](https://github.com/user-attachments/assets/161eaae9-cf77-4fe1-92ec-23645933f6e2)
 ## Interface do Apple I
 
 ### Tabela Resumida
@@ -113,12 +114,12 @@ Somente a **RAM do iPhone é cerca de 2 bilhões de vezes maior** que toda a mem
 | Função | Apple I (1976) | iPhone 16 Pro (2024) |
 |------|------|------|
 | Entrada de texto | Teclado ASCII externo | Teclado virtual touchscreen + voz |
-| Entrada de imagem | ❌ Não disponível | Câmera tripla 48MP + 12MP + LiDAR |
-| Entrada de áudio | ❌ Não disponível | Microfones com cancelamento de ruído |
-| Reconhecimento facial | ❌ Não disponível | Face ID |
+| Entrada de imagem | Não disponível | Câmera tripla 48MP + 12MP + LiDAR |
+| Entrada de áudio | Não disponível | Microfones com cancelamento de ruído |
+| Reconhecimento facial | Não disponível | Face ID |
 | Saída de vídeo | Texto 40×24 | OLED 2796×1290, 120 Hz |
-| Áudio | ❌  Não disponível | Alto-falantes estéreo Dolby Atmos |
-| Conectividade | ❌ Nenhuma | 5G, Wi-Fi 7, Bluetooth, NFC, GPS |
+| Áudio | Não disponível | Alto-falantes estéreo Dolby Atmos |
+| Conectividade | Nenhuma | 5G, Wi-Fi 7, Bluetooth, NFC, GPS |
 | Armazenamento externo | Fita cassete | iCloud, USB-C |
 
 ---
