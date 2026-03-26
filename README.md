@@ -148,7 +148,7 @@ O estudo do Apple I demonstra como a arquitetura de computadores evoluiu ao long
 
 ## Referencias 
 
-COMPUTER HISTORY MUSEUM. Apple-1 - X210.83A. Mountain View: CHM, 1976/coleção digital. Disponível em: acervo do Computer History Museum. Acesso em: 16 mar. 2026.  ￼
+COMPUTER HISTORY MUSEUM. Apple-1 - X210.83A. Mountain View: CHM, 1976/coleção digital. Disponível em: acervo do Computer History Museum. Acesso em: 16 mar. 2026.  ￼.
 
 COMPUTER HISTORY MUSEUM. Timeline of Computer History. Mountain View: CHM. Disponível em: acervo online do Computer History Museum. Acesso em: 16 mar. 2026.  ￼
 
