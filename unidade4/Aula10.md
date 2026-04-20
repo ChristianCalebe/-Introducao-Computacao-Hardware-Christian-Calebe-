@@ -34,3 +34,5 @@ Cada grupo deve incluir neste repositório:
   - `elementos_rede.png` ou `elementos_rede.pdf`
   - `classificacao_redes.pdf` ou `classificacao_redes.png`
   - `README.md` com breve descrição do trabalho.
+----
+![LIVRO](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQROOHmhUuYNC63LHRgWdkZ4FpYFXmDDyTy5zM5Rj4dr-8oQ6Fs)
