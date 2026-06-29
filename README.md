@@ -1,6 +1,8 @@
 # Investigação de Hardware: Apple 
 ### Comparação entre o Apple I e computadores modernos
 
+## integrantes do grupo: Christian Calebe, Ana Beatriz e Erica silva
+
 ## Introdução
 A evolução dos computadores transformou profundamente a forma como as pessoas utilizam tecnologia no dia a dia. 
 
